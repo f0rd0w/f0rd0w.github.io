@@ -1,37 +1,37 @@
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Codename: F0rd0w
 Components: main
-Date: Tue, 24 Jun 2025 08:52:34 +0000
+Date: Tue, 24 Jun 2025 17:23:55 +0000
 Description: F0rd0w
-Label:           F0rd0w        
-Origin:          F0rd0w         
+Label:           F0rd0w
+Origin:          F0rd0w
 Suite: stable
 Version: 1.0
 MD5Sum:
  4e6dbb787ca12a6c3249d499629f54d4             9427 Packages
  414574cc1fb1883d6bef5480a0dc2dc4             3285 Packages.bz2
- 48c05c1eac8ca074f467b4a15c96d9da             3156 Packages.gz
+ c9cbaf8244a387652df451a33f68a794             3156 Packages.gz
  9c3e0309f41c0adccccdce332e9d469b             2956 Packages.xz
  6b6938af3763e54f68b0b8aad29f7d5b             2939 Packages.zst
- d11ec5f238048faf05dc14b9f8bb2b07              243 Release
+ 4acd255f1ee51b249f835d6f835b33e1              226 Release
 SHA1:
  dd11382194412dbf4abafda64492976322e69e25             9427 Packages
  687bc312ac18d10f7538503354a06058ab65b818             3285 Packages.bz2
- 4a50c8a2fa25c00fff989a228f3611f5c1cef5aa             3156 Packages.gz
+ 1339c3dd4bee5f0a3e505e37bd36f5a523b38add             3156 Packages.gz
  745001aab86afca130d7dede445c39dcaadb6e5d             2956 Packages.xz
  93d9483a5057779d5a3dd94117acc5cb72a470c1             2939 Packages.zst
- 4d8deae352637e89e06e7e2874e19a7cdb624b1c              243 Release
+ 466b06d5466c52b426e8bd4e79e2ce2b060e3d9d              226 Release
 SHA256:
  a8331f39f2347a6a8326913c74e9c0d1668f655107f9c4bf65c891aea6de60a9             9427 Packages
  2d588937530f6bfc1b36e61acc94767145b70f3d90dc4741b9eebe279e2ec139             3285 Packages.bz2
- 3105f2cf74097609287488bcea40f17a541d7ee466bc670e7e70a8c8ac1ea6a3             3156 Packages.gz
+ 6b7257fde70cf9e674d2e18a96c544fe1f0c0d6ff927752ceb91ea4ff5ad8c65             3156 Packages.gz
  99b86ff37787ae2b479e7ecdaa4311658bd17bdd9bccebb773dc1bd90912630b             2956 Packages.xz
  97247a618f24fba7204e0ad859d8bb0e18240f7dd1f5185f82236c01e8950a49             2939 Packages.zst
- 91abd385f58be041579789af769beee1672a64c96406c8cd73c65d2dfd0baeac              243 Release
+ cbad9630b762de9e0a62c2fd632237dc011980e4fd2df0e4905fe6564898644c              226 Release
 SHA512:
  77861038040714280537126564e3d0e8466cffb26690521546c82e1428dc7b05fea622210c0c222a303b83429362b043179a02b71d335390f1f13efcfb518fa0             9427 Packages
  87cb078a1471aeb54df2a3fb0b4acdf7bab3f3e632cf27c508fe4ab4d1848cc352cd1d80c0a87b4f45c1e55e5ee43bf2cd77405d76fbfdbcfe43036e7826515e             3285 Packages.bz2
- 0a2d65980e58699629bbf1d765dcfcc26e7851e0fc8cc8d77c29790efac9649e4cd0e3bce705bb791943bd7546eba1d80c9174f15e1ba4580f2ce0a3cad5e860             3156 Packages.gz
+ bcd2fe6820c20f59090596f86e14e9dd78a92dbeb14cbf62c9c0296b618d9021972e64e23338d66362535bbb85fb10d6804f4a490e5b468c945db863eaedf7c7             3156 Packages.gz
  d14e95e08e4fecc68d6159a757a6afd5f881a8092db5f8ef8e5367b83cb00cd923b1dd05e9e5661942c6e9ef45c563d6d3cb746558a9fced082c46b9fb05277b             2956 Packages.xz
  38688cce257f0870b2cb65c6df689d6d964639d56a890debe5b9e20ba991dfa7c59cc7b2ec9d4f81a9e61aef51515afa35a7f5047ab76f2491d295c4423ce53b             2939 Packages.zst
- 8c96b57793acfb3ce96b80e0b1315c6619272936315a404bc6e9a30f55dd6ba4d0b9d9645eaa428dccfccf724959e70f1c1667cb58cf64d50c36c020383eeb6d              243 Release
+ 74626bdc2ee9a0347fbdc58f2f4f536814acea94d5d3c036aea69447fadedbd9533e4fc1bfdf1478e2ef4d10d082a82fdd172e6930aee2cc4590182a2275d3c1              226 Release
