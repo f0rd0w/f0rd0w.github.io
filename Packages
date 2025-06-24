@@ -1,0 +1,106 @@
+Package: com.dvntm.cmm
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: dvntm
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.dvntm.cmm_1.0.1_iphoneos-arm.deb
+Size: 43820
+MD5sum: eeb358ed60620de0591e3ad35e57877d
+SHA1: 2c7a4c4049da1a7a37ced364be1f9f4658997c4f
+SHA256: 03dab3356f2084846e49396868f90d05364aa6d70a7cd6db6a1bd190c0c1992d
+SHA512: 5297d66398eea97d7b2a92dc21657a425f902a32996b1e6a8082caa039ebce2561479959253f826598a829e4b01cb3a2164f5d4fb970422c6042c43276bb5532
+Description: Enhancer for the system Phone app
+Name: CallMeMaybe
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/refs/heads/main/sources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/main/sources/depiction.json
+
+Package: com.mikifp.griddy
+Architecture: iphoneos-arm
+Version: 1.0.5
+Section: Tweaks
+Maintainer: mikifp
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.mikifp.griddy_1.0.5_iphoneos-arm.deb
+Size: 19076
+MD5sum: 4f8e5bed1bc6409c6f49c104d4b87ce0
+SHA1: 2fe3f728496195971007231314a8594c0bd052b9
+SHA256: f905808f233867dfced9affc3acd974994435725de0769e75d3abedf07254083
+SHA512: bb83b3042775429851d6e02f3efca83b806c2dc882945b4a49a188025efb4dd28ce04eca97d5645c5c24f2ad45d18d6927dc836c83f90d36e2bacd6be2c61cc6
+Description: Layout your icons anywhere you want!
+Name: Griddy
+Author: mikifp
+
+Package: com.dvntm.cmm
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: dvntm
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.dvntm.cmm_1.0.1_iphoneos-arm64e.deb
+Size: 51934
+MD5sum: 9541622045b4899c28da87e40eb84d2e
+SHA1: 7770f94f1c1fdf844edb65a712e110dd4559dbc7
+SHA256: 24f9d7c0829c11ac9e28ae7cdf63cdda6fad894b39553018e87c29b5005f0877
+SHA512: d44a38c829552e4023f3e306fc42c340a1d283f6018f5010f0736cf3ae7c4d5569ac64b0cc637528e64900bb9edfe53df20f6ebfba8d896b3980e5ee7cf7bef4
+Description: Enhancer for the system Phone app
+Name: CallMeMaybe
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/refs/heads/main/sources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/main/sources/depiction.json
+
+Package: com.mikifp.griddy
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Section: Tweaks
+Maintainer: mikifp
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.mikifp.griddy_1.0.5_iphoneos-arm64e.deb
+Size: 18292
+MD5sum: 8151715f03f323ea201d3a1b7ee83fa8
+SHA1: ceafd58030c40f0f080f6d17ff60af2054a7262b
+SHA256: 715cc570ff4ad4aec5c5246c47d133ce0cfde557c550ce8b5b6cebb6372e4270
+SHA512: 24102560c76ef31f9cf87e3567dcd2c8090ce6e49367c2257707a819ee091e8e498651502519c93a20609cc3735e4131aac68586d3667efefed1f5f3f2dc3530
+Description: Layout your icons anywhere you want!
+Name: Griddy
+Author: mikifp
+
+Package: com.dvntm.cmm
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: dvntm
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.dvntm.cmm_1.0.1_iphoneos-arm64.deb
+Size: 44352
+MD5sum: c780e8b29cb234fc96eb5456b38901de
+SHA1: 3a2b8494f3098ee405745179cb5ea05c06e1dd67
+SHA256: 166ffe1d0180ea5719d6b7041efe023ffda865316e09e2f91245974431d41f43
+SHA512: 6b9181374973fa696dc92e034236726009468d74008cfe85559f712d2b7c6c94138917d5aad41f481324cbbba2e9bdc7d90c10268a63b7d5c37ddc8263fc62e9
+Description: Enhancer for the system Phone app
+Name: CallMeMaybe
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/refs/heads/main/sources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/main/sources/depiction.json
+
+Package: com.mikifp.griddy
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Section: Tweaks
+Maintainer: mikifp
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.mikifp.griddy_1.0.5_iphoneos-arm64.deb
+Size: 19480
+MD5sum: 967728e9b3862bee97d0db08150da477
+SHA1: 4d670187103e631f78b3fad01e53ec4614915a5d
+SHA256: b8a0c736efda2c2913fb727e00baf65c0e3c36a8e81a47ce21681747f4c3cf66
+SHA512: 7c2b22c654feedb68f60724bc770680e35d86653fbc7b3d98797de3583d661e5f8c748278e4e183e2b3f43e576e0b250d9eb662152f9f0af0ad8205f4ddfeaec
+Description: Layout your icons anywhere you want!
+Name: Griddy
+Author: mikifp
+
