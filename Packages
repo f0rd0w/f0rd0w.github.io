@@ -16,6 +16,26 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/refs/heads/main/sources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/main/sources/depiction.json
 
+Package: com.hitori.misaki
+Architecture: iphoneos-arm
+Version: 2.2
+Section: Tweaks
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1049
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debians/Rootful/com.hitori.misaki_2.2_iphoneos-arm.deb
+Size: 301108
+MD5sum: 3025b1993cb3d507073e234bf501d52d
+SHA1: 098c8af52e4737c0d2467b2b3f499f2eb81e671a
+SHA256: 72fb4ba9356cd18e6729f8a89e09d1eb9ecc9c4d4008460041cd414d312e594b
+SHA512: 8dbccf9d8592798adc5dd49769833f4ff92980d91224475a9c203e0f53a394a4b0f6cd331f0db54fe16c4ee29016289ef320a810a4a85d70e5796b12a01d261b
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Author: Hitori <mikasa-san@outlook.jp>
+Name: Misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Depiction: https://chariz.com/buy/misaki
+Taq: cydia::commercial, compatible_min::ios15.0
+
 Package: com.mikifp.griddy
 Architecture: iphoneos-arm
 Version: 1.0.5
@@ -32,6 +52,24 @@ SHA512: bb83b3042775429851d6e02f3efca83b806c2dc882945b4a49a188025efb4dd28ce04eca
 Description: Layout your icons anywhere you want!
 Name: Griddy
 Author: mikifp
+
+Package: me.ahmedbafkir.dleasy
+Architecture: iphoneos-arm
+Version: 2.14.8
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Installed-Size: 15616
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Rootful/me.ahmedbafkir.dleasy_2.14.8_iphoneos-arm.deb
+Size: 5480268
+MD5sum: b1ad9b3586ee1ef2af462a0b99a1b426
+SHA1: 945df907279852e0fc44c2c6078361e7661639d4
+SHA256: dadd12a10504ccf8b02b097eabc8c60402f4d5f750cb096d7f2794a8da2d5ff6
+SHA512: 213e25b0bff5ee1b75f01fc8d3b8516ba80416c415c8e3cf00ef87df9ea3a39ded0ad705f4023aa1f4cd06a0aa1608153f7e02f31b17f0e5c000745b539947b2
+Description: Download/Share images & videos from social apps easily!
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
 
 Package: com.dvntm.cmm
 Architecture: iphoneos-arm64e
@@ -52,6 +90,27 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/refs/heads/main/sources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/main/sources/depiction.json
 
+Package: com.hitori.misaki
+Architecture: iphoneos-arm64e
+Version: 2.2
+Section: Tweaks
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1049
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debians/Roothide/com.hitori.misaki_2.2_iphoneos-arm64e.deb
+Size: 367958
+MD5sum: de1b1473198c23ad7fa5b8582afc9b8f
+SHA1: 41f8a701e1b191c478c3d07210e13e5b4e529f8a
+SHA256: 5400e179264afd207fc72eb34ff133d6ec320fff304bcccc67131738986fd347
+SHA512: d9e6886002806aa6527fac06aa2b8b503a05d390efd202aa9c00e49f0acbb9282a52e54a39b9faf06bf7f1387236f87c63191d4a7f1aed6f3288f27140932ad5
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Author: Hitori <mikasa-san@outlook.jp>
+Name: Misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Depiction: https://chariz.com/buy/misaki
+Taq: cydia::commercial, compatible_min::ios15.0
+
 Package: com.mikifp.griddy
 Architecture: iphoneos-arm64e
 Version: 1.0.5
@@ -68,6 +127,25 @@ SHA512: 24102560c76ef31f9cf87e3567dcd2c8090ce6e49367c2257707a819ee091e8e49865150
 Description: Layout your icons anywhere you want!
 Name: Griddy
 Author: mikifp
+
+Package: me.ahmedbafkir.dleasy
+Architecture: iphoneos-arm64e
+Version: 2.14.8
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Installed-Size: 15616
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Roothide/me.ahmedbafkir.dleasy_2.14.8_iphoneos-arm64e.deb
+Size: 14906966
+MD5sum: b6802579af2ddb722f709e2e7136bf2a
+SHA1: d6e70fa4f85ed9262238061956b49c9d93a4eec7
+SHA256: 2cce63dbaca30c7860b858e0a550aeb55545b1b2fb803cc0f41e2946e00520c3
+SHA512: 2d48e52cff245f59b4a60cd1d91d0bb9a523de3dd8f5c100e46935159a5b8c50cf26f1c2f78b425e2574b2d9dd11bc455b6b36081a696ecac9ba95b36e7bee25
+Description: Download/Share images & videos from social apps easily!
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
 
 Package: com.dvntm.cmm
 Architecture: iphoneos-arm64
@@ -87,6 +165,26 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/refs/heads/main/sources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/main/sources/depiction.json
 
+Package: com.hitori.misaki
+Architecture: iphoneos-arm64
+Version: 2.2
+Section: Tweaks
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1049
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debians/Rootless/com.hitori.misaki_2.2_iphoneos-arm64.deb
+Size: 305972
+MD5sum: 44745c03c25ef23517c9c578447c80c9
+SHA1: 720ba62dec0e2aeecbba6a39f885f47b34f851a5
+SHA256: 13eeced095d28d13c79ee7acdbeabafc8e83ac62f3e281d88217ab54d77b86dd
+SHA512: 780d10f7693cba1996cd9950a1e8e1622c2264bb4b758e0382ae5fb955b648d299ae89bb1f9e49f344ae3258048a577ed359131a836d1433656d7e58397bf403
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Author: Hitori <mikasa-san@outlook.jp>
+Name: Misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Depiction: https://chariz.com/buy/misaki
+Taq: cydia::commercial, compatible_min::ios15.0
+
 Package: com.mikifp.griddy
 Architecture: iphoneos-arm64
 Version: 1.0.5
@@ -103,4 +201,22 @@ SHA512: 7c2b22c654feedb68f60724bc770680e35d86653fbc7b3d98797de3583d661e5f8c74827
 Description: Layout your icons anywhere you want!
 Name: Griddy
 Author: mikifp
+
+Package: me.ahmedbafkir.dleasy
+Architecture: iphoneos-arm64
+Version: 2.14.8
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Installed-Size: 15616
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Rootless/me.ahmedbafkir.dleasy_2.14.8_iphoneos-arm64.deb
+Size: 5549336
+MD5sum: 64a7b474d420590dd497f38a41383971
+SHA1: ba793a47339f8b5d93309f7fe7f2ca7a8657a576
+SHA256: 224a64a6e52f5f9ce2e17f8bbe4a4c1ff8df1ec455a0c617292a8f88feb09d6e
+SHA512: 7fe4477c1ac83c02b1da82ddb0ca3071f4e858c46fbf4e19cc688f5e70632b9758ce25797775961d245636d420e9541ce60de997c0948f313468d733aa22b923
+Description: Download/Share images & videos from social apps easily!
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
 
